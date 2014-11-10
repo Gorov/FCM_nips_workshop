@@ -1,5 +1,7 @@
 FCM_nips_workshop
 =================
+Coming soon...
+
 Basic version of FCT model for relation extraction.
 
 Intall:
