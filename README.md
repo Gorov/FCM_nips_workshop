@@ -1,7 +1,5 @@
 FCM_nips_workshop
 =================
-Coming soon...
-
 Basic version of FCT model for relation extraction.
 The package has two executable files: RE_FCT_fixed corresponds to the log-linear model, RE_FCT is the log-quadratic (log-binear) model
 The data directory
