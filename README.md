@@ -21,3 +21,4 @@ When running on SemEval, it is better to close the sub-models with sst-pair feat
     since when WordNet super sense tags are used instead of NE tags,
     the model will have much more number of entity type pairs and will lead to overfitting.
 
+The word embeddings can be found at http://yumo.asiteof.me/data/vectors.nyt2011.cbow.bin
